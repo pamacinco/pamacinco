@@ -1,5 +1,4 @@
 ### Hi there 👋
-![image](https://user-images.githubusercontent.com/71187049/147859120-dd1a0de2-dd74-4837-afdb-ce2144e669fa.png)
 
 <!--
 **pamacinco/pamacinco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,4 +21,4 @@ Here are some ideas to get you started:
 ### • 💻 Learning LUA.
 ### • 📥 Contact: pamacinco#0659.
 
-![image](https://user-images.githubusercontent.com/71187049/147858901-48b5ffb8-fc14-4a92-be3c-07fa2d16deff.png)
+![image](https://user-images.githubusercontent.com/71187049/147859120-dd1a0de2-dd74-4837-afdb-ce2144e669fa.png)
