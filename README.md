@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ### 💣 About me
 
-### • 🌴 SuperAdmin of [MarbellaRP] (https://discord.gg/marbellarp).
+### • 🌴 SuperAdmin of [MarbellaRP](https://discord.gg/marbellarp).
 ### • 💻 LUA Programmer.
 ### • 📥 Contact: ! Zapu#2002.
