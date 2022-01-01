@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ### • 🌴 SuperAdmin of [MarbellaRP](https://discord.gg/marbellarp).
 ### • 💻 LUA Programmer.
-### • 📥 Contact: ! Zapu#2002.
+### • 📥 Contact: pamacinco#0659.
