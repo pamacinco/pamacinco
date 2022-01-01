@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### 💣 About me
 
 ### • 🌴 SuperAdmin of [MarbellaRP](https://discord.gg/marbellarp).
-### • 💻 LUA Programmer.
+### • 💻 Learning LUA.
 ### • 📥 Contact: pamacinco#0659.
 
 ![image](https://user-images.githubusercontent.com/71187049/147858901-48b5ffb8-fc14-4a92-be3c-07fa2d16deff.png)
