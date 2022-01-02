@@ -20,5 +20,6 @@ Here are some ideas to get you started:
 ### • 🌴 SuperAdmin of [MarbellaRP](https://discord.gg/marbellarp).
 ### • 💻 Learning LUA.
 ### • 📥 Contact: pamacinco#0659.
+### • 🎁 [Pamacinco - Scripts](https://discord.gg/FC6fkmrpuZ)
 
 ![image](https://user-images.githubusercontent.com/71187049/147859120-dd1a0de2-dd74-4837-afdb-ce2144e669fa.png)
