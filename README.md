@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### 💣 About me
 
-### • 🌴 SuperAdmin of [MarbellaRP](https://discord.gg/marbellarp).
+### • 🌴 Founder of [MiamiCommunity](https://discord.gg/miamicommunity).
 ### • 💻 Learning LUA.
 ### • 📥 Contact: pamacinco#0659.
 ### • 🎁 [Pamacinco - Scripts](https://discord.gg/FC6fkmrpuZ)
