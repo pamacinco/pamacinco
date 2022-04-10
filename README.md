@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 ### • 📥 Contact: pamacinco#0659.
 ### • 🎁 [Pamacinco - Scripts](https://discord.gg/FC6fkmrpuZ)
 
-![image](https://media.discordapp.net/attachments/898600822810746881/899226504901324850/standard.gif)
+![image](https://images-ext-1.discordapp.net/external/DdiKksXHuyS7NFkwj7jvuJJWkNZ55oX7rlLqhqL-6Zo/https/media.discordapp.net/attachments/898600822810746881/899226504901324850/standard.gif?width=450&height=180)
